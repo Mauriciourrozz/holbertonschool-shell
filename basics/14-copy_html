@@ -1,2 +1,2 @@
 #!/bin/bash
-cp html cd .
+touch /tmp/test_html/file_0.html

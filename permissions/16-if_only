@@ -1,2 +1,2 @@
 #!/bin/bash
-hown -from=guillaume_hello:guillaume_vincent .
+chown --from=guillaume vincent hello

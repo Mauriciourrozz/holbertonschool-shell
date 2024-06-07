@@ -1,0 +1,2 @@
+#!/bin/bash
+chown --from=hello_guillaume:vincent_guillaume

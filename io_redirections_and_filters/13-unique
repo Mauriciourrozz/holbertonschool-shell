@@ -1,0 +1,2 @@
+#!/bin/bash
+./unique_words.py < words.txt
